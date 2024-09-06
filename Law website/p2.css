@@ -1,0 +1,25 @@
+h1{
+		font-size:50px;
+		font-family:Bookman Old Style;
+}
+
+span1{
+		font-size:40px;
+		font-family:Bookman Old Style;
+}
+span{
+		font-size:30px;
+		font-family:Bookman Old Styl
+}
+
+body{
+	background-color:#ced4da;
+}
+
+select {
+  width: 10%;
+  padding: 10px 16px;
+  border: none;
+  border-radius: 4px;
+  background-color: #f1f1f1;
+}

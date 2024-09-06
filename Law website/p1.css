@@ -1,0 +1,79 @@
+body{
+	//background-color:white;
+	background:url("ba.jpeg");
+	height:vh;
+	background-size:100%720px;
+	background-position:center;
+	backdrop-filter:blur(7px);
+	
+}
+h1{
+	
+
+	text-align:center;
+	font-size:200px;
+	text-transform:uppercase;
+	top:10%;
+	letter-spacing:10px;
+	 font-family:Algerian;
+	position:absolute;
+	margin-left:30px;
+
+
+	background:url("i.jpg")27% 25% ;
+	background-size:cover;	
+	-webkit-text-fill-color:transparent;
+	-webkit-background-clip:text;
+	}
+
+.button {
+  background-color: #4CAF50;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.button:hover {
+  animation: bounce 0.5s;
+}
+
+@keyframes bounce {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+
+
+.button1 {
+  background-color: #4CAF50;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.button1:hover {
+  animation: slide 0.5s;
+}
+
+@keyframes slide {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(10px);
+  }
+}
+	
+.1{height: 50px;width:20%;margin-left:auto;}
+
+
